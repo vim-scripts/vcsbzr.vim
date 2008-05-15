@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2241
+
+This is a plugin for VCSCommand (vimscript #90) that integrates the Bazaar version control system (http://bazaar-vcs.org).  It allows the basic version control commands of VCSCommand to be applied to projects versioned using Bazaar.
+
+This script is maintained at http://launchpad.net/bzr-vim
